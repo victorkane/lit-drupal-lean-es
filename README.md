@@ -8,6 +8,7 @@ Proyecto de ejemplo para taller y presentación en DrupalPicchu2014, centrado en
 * Perfil de instalación
 * Features
 * CTools Bulk Export a módulo
+* [Configuration Management](https://drupal.org/project/configuration)
 * Scripts Drush
   * De tipo shebang
   * De tipo drush scr (Php)
